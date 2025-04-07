@@ -1,6 +1,6 @@
 # Janus Marco Photography and Film Booking System
 
-A simple booking system for photography services built with Flask. This app allows users to select a photography service, choose a date, and confirm their booking.
+A simple booking system for my photography services built with Flask. This app allows users to select a photography service, choose a date, and confirm their booking.
 
 ## Features
 
